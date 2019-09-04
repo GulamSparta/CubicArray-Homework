@@ -1,0 +1,2 @@
+C:\Users\Gulam �Qasim\Documents\LabCubicArraysHomework\CubicHomework\CubicHomework\obj\Debug\CubicHomework.csprojAssemblyReference.cache
+C:\Users\Gulam �Qasim\Documents\LabCubicArraysHomework\CubicHomework\CubicHomework\obj\Debug\CubicHomework.csproj.CoreCompileInputs.cache
