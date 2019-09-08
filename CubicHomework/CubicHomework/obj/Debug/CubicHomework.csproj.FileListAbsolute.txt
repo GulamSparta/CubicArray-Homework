@@ -1,2 +1,8 @@
 C:\Users\Gulam �Qasim\Documents\LabCubicArraysHomework\CubicHomework\CubicHomework\obj\Debug\CubicHomework.csprojAssemblyReference.cache
 C:\Users\Gulam �Qasim\Documents\LabCubicArraysHomework\CubicHomework\CubicHomework\obj\Debug\CubicHomework.csproj.CoreCompileInputs.cache
+C:\Users\Gulam �Qasim\Downloads\CubicArray-Homework-master (1)\CubicArray-Homework-master\CubicHomework\CubicHomework\bin\Debug\CubicHomework.exe
+C:\Users\Gulam �Qasim\Downloads\CubicArray-Homework-master (1)\CubicArray-Homework-master\CubicHomework\CubicHomework\bin\Debug\CubicHomework.pdb
+C:\Users\Gulam �Qasim\Downloads\CubicArray-Homework-master (1)\CubicArray-Homework-master\CubicHomework\CubicHomework\obj\Debug\CubicHomework.csprojAssemblyReference.cache
+C:\Users\Gulam �Qasim\Downloads\CubicArray-Homework-master (1)\CubicArray-Homework-master\CubicHomework\CubicHomework\obj\Debug\CubicHomework.csproj.CoreCompileInputs.cache
+C:\Users\Gulam �Qasim\Downloads\CubicArray-Homework-master (1)\CubicArray-Homework-master\CubicHomework\CubicHomework\obj\Debug\CubicHomework.exe
+C:\Users\Gulam �Qasim\Downloads\CubicArray-Homework-master (1)\CubicArray-Homework-master\CubicHomework\CubicHomework\obj\Debug\CubicHomework.pdb
